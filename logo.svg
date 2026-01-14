@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 200 200">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: url(#linear-gradient6);
+      }
+
+      .st0, .st1 {
+        stroke-width: .5px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: url(#linear-gradient5);
+      }
+
+      .st5 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st6 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st7 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st2 {
+        stroke: #0f0f1a;
+        stroke-width: 2px;
+      }
+
+      .st2, .st8, .st4, .st9 {
+        isolation: isolate;
+      }
+
+      .st2, .st10 {
+        opacity: .3;
+      }
+
+      .st11, .st9 {
+        fill: #0f0f1a;
+      }
+
+      .st3 {
+        stroke: url(#linear-gradient);
+        stroke-width: 4px;
+      }
+
+      .st4 {
+        opacity: .5;
+        stroke: url(#linear-gradient1);
+      }
+
+      .st12 {
+        opacity: .6;
+      }
+
+      .st9 {
+        font-family: KufiStandardGK, KufiStandardGK;
+        font-size: 153.8px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-1708.46" y1="4.88" x2="-1707.46" y2="5.88" gradientTransform="translate(307532 -868) scale(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d03f"/>
+      <stop offset=".5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#b8960c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="-1707.26" y1="5.49" x2="-1706.26" y2="6.49" gradientTransform="translate(273182 -858) scale(160)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d03f"/>
+      <stop offset=".5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#b8960c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="-1706.54" y1="5.86" x2="-1705.54" y2="6.86" gradientTransform="translate(256007 -853) scale(150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d03f"/>
+      <stop offset=".5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#b8960c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="-1503.3" y1="109.8" x2="-1502.3" y2="110.8" gradientTransform="translate(12122 -855.5) scale(8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d03f"/>
+      <stop offset=".5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#b8960c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient4" x1="-1503.3" y1="109.8" x2="-1502.3" y2="110.8" gradientTransform="translate(12122 -710.5) scale(8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d03f"/>
+      <stop offset=".5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#b8960c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient5" x1="-1705.72" y1="6.28" x2="-1704.72" y2="7.28" gradientTransform="translate(238832 -848) scale(140)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d03f"/>
+      <stop offset=".5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#b8960c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient6" x1="-1700.82" y1="8.78" x2="-1699.82" y2="9.78" gradientTransform="translate(170132 -828) scale(100)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4d03f"/>
+      <stop offset=".5" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#b8960c"/>
+    </linearGradient>
+  </defs>
+  <circle class="st11" cx="100" cy="100" r="95"/>
+  <circle class="st3" cx="100" cy="100" r="90"/>
+  <circle class="st4" cx="100" cy="100" r="80"/>
+  <circle class="st5" cx="100" cy="100" r="75"/>
+  <circle class="st2" cx="100" cy="100" r="65"/>
+  <g class="st12">
+    <polygon class="st6" points="100 22.5 101 25.5 104 25.5 101.5 27.5 102.5 30.5 100 28.5 97.5 30.5 98.5 27.5 96 25.5 99 25.5 100 22.5"/>
+    <polygon class="st7" points="100 167.5 101 170.5 104 170.5 101.5 172.5 102.5 175.5 100 173.5 97.5 175.5 98.5 172.5 96 170.5 99 170.5 100 167.5"/>
+  </g>
+  <g class="st10">
+    <path class="st1" d="M100,30l70,70-70,70L30,100,100,30Z"/>
+    <circle class="st0" cx="100" cy="100" r="50"/>
+  </g>
+  <g class="st8">
+    <text class="st9" transform="translate(54.58 121.42)"><tspan x="0" y="0">د</tspan></text>
+  </g>
+</svg>
